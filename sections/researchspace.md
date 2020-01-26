@@ -9,7 +9,7 @@
 +++
 
 
-![Omnipot example](wiki_to_lod/images/screen_Omnipot_localGraph.PNG)
+![Omnipot example](images/screen_Omnipot_localGraph.PNG)
 
 
 +++

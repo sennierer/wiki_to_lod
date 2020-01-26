@@ -9,7 +9,7 @@
 
 +++
 
-![APIS Datamodel](wiki_to_lod/images/datamodel_graph.png)
+![APIS Datamodel](images/datamodel_graph.png)
 
 +++
 
@@ -27,20 +27,20 @@
 
 +++
 
-![Edit view APIS](wiki_to_lod/images/apis_screenshots_person_edit.png)
+![Edit view APIS](images/apis_screenshots_person_edit.png)
 
 +++
 
-![Edit view APIS II](wiki_to_lod/images/apis_screenshots_person_edit_II.png)
+![Edit view APIS II](images/apis_screenshots_person_edit_II.png)
 
 +++
 
-![Edit view APIS II](wiki_to_lod/images/apis_annotations_I.png)
+![Edit view APIS II](images/apis_annotations_I.png)
 
 +++
 
-![Edit view APIS II](wiki_to_lod/images/apis_annotations_II.png)
+![Edit view APIS II](images/apis_annotations_II.png)
 
 +++
 
-![Networkviz](wiki_to_lod/images/network_viz.png)
+![Networkviz](images/network_viz.png)
