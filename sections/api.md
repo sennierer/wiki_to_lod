@@ -1,4 +1,4 @@
-### APIs
+### API
 - Hyperlinked API for retrieval of atomic data<!-- .element: class="fragment" -->
 - \>\> e.g. network visualization<!-- .element: class="fragment" -->
 - 2nd API for retrieval of every information on one entity<!-- .element: class="fragment" -->
