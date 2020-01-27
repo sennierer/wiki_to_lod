@@ -32,3 +32,14 @@
 	+ archaeological excavations <!-- .element: class="fragment" -->
 - ACDH-OEAW Bibliography <!-- .element: class="fragment" -->
 - ... <!-- .element: class="fragment" -->
+
++++
+
+
+![Omnipot example](images/screen_Omnipot_localGraph.PNG)
+
+
++++
+
+
+*https://omnipot.acdh-dev.oeaw.ac.at*
